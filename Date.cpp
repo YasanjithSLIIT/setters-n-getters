@@ -23,3 +23,8 @@
 
         return year;
       }
+
+       int Date::getName(){
+
+        return year;
+      }
