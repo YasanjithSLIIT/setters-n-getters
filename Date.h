@@ -14,6 +14,8 @@
       int getDay();
       int getMonth();
       int getYear();
+      
+       int getName();
 
 
  };

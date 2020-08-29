@@ -16,6 +16,7 @@ int main() {
   cin >> mMonth;
   cout<<"Input year:";
   cin >> myear;
+  
 
   Date myDate;
   myDate.setDay(mday);
